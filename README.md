@@ -1,1 +1,3 @@
-# reserch
+# 大学での研究（解析プログラム集）
+
+・orientation_analysis.ipynb: 画像から繊維の配向性を評価するための解析コード
